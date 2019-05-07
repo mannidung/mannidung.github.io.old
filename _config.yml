@@ -25,6 +25,7 @@ github_username:  mannidung
 # Build settings
 markdown: kramdown
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+#theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
